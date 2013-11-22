@@ -1,6 +1,6 @@
 build.log
 .DS_Store
-/build/
+# /build/
 /.build-tmp/
 /.sass-cache/
 /src/.sass-cache/
